@@ -25,3 +25,10 @@ y = "Piece"
 print("What is the name of manga created by Eichiro Oda?")
 print(x + y)
 ```
+
+### Creating a task list
+
+- [ ] Create One Piece Questionaire
+- [ ] Read Ougimonogatari
+- [ ] Practice using python classes
+- [x] Procrastinate. A lot.
