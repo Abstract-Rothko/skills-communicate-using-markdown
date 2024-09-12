@@ -6,7 +6,7 @@
 
 *First Picture*
 
-![first pic]()
+![first pic](images/41f0a36ffa24c5d3c2a20ca481c51d6e.1000x1000x1.jpg)
 
 *Second Picture*
 
