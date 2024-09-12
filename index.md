@@ -10,7 +10,7 @@
 
 *Second Picture*
 
-![second pic]()
+![second pic](images/Drake-For-all-the-Dogs.jpg)
 
 *Third Picture*
 
